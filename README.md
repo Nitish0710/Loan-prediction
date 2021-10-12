@@ -12,5 +12,6 @@ Company wants to automate the loan eligibility process (real time) based on cust
 * numpy<br/>
 * matplotlib.pyplot<br/>
 * sklearn<br/>
+* Klib<br/>
 
 📌 <b>Jupyter notebook was used.</b>
